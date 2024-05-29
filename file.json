@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "name": "GOVIN 2.0",
+    "description": "GOVIN APPLICATION.",
+    "author": {
+      "name": "Naik Pranjali Gokuldas",
+      "email": "pranjalinaik5@gmail.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/username/repository-name"
+    },
+    "license": "PMU CARES",
+    "dependencies": {
+      "library1": "^1.2.3",
+      "library2": "^4.5.6"
+    },
+    "scripts": {
+      "start": "react",
+      "test": "GUI"
+    }
+  }
