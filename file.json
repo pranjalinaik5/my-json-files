@@ -3,8 +3,7 @@
     "name": "GOVIN 2.0",
     "description": "GOVIN APPLICATION.",
     "author": {
-      "name": "PMU CARES",
-      "email": "pranjalinaik5@gmail.com"
+      "name": "PMU CARES"
     },
     "repository": {
       "type": "git",
